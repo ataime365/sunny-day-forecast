@@ -52,8 +52,3 @@ class Weather:
         return simplified_li
     
     
-# weather = Weather(apikey="95c0c347ba74892adb7e8d9d7ec7de2d" , city="Madrid", lat = 6.23, lon=3.60) 
-# # # weather = self ...... so we can do weather.data
-# # w = weather.next_12h()
-# sw = weather.next_12h_simplified()
-# pprint.pprint(sw)
